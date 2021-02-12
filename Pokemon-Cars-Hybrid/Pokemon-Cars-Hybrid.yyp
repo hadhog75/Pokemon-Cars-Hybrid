@@ -1,6 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},"order":1,},
+    {"id":{"name":"font_battle_text","path":"fonts/font_battle_text/font_battle_text.yy",},"order":0,},
+    {"id":{"name":"spr_arrow_sprite","path":"sprites/spr_arrow_sprite/spr_arrow_sprite.yy",},"order":0,},
+    {"id":{"name":"obj_battle","path":"objects/obj_battle/obj_battle.yy",},"order":0,},
+    {"id":{"name":"Battle_room","path":"rooms/Battle_room/Battle_room.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -16,7 +20,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Battle_room","path":"rooms/Battle_room/Battle_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
