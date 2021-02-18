@@ -8,6 +8,7 @@
     {"id":{"name":"spr_textbox","path":"sprites/spr_textbox/spr_textbox.yy",},"order":1,},
     {"id":{"name":"obj_intructions_menu","path":"objects/obj_intructions_menu/obj_intructions_menu.yy",},"order":6,},
     {"id":{"name":"font_battle_text","path":"fonts/font_battle_text/font_battle_text.yy",},"order":0,},
+    {"id":{"name":"scr_healHurt","path":"scripts/scr_healHurt/scr_healHurt.yy",},"order":0,},
     {"id":{"name":"Main_menu","path":"rooms/Main_menu/Main_menu.yy",},"order":3,},
     {"id":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},"order":4,},
     {"id":{"name":"spr_opponent1","path":"sprites/spr_opponent1/spr_opponent1.yy",},"order":2,},
