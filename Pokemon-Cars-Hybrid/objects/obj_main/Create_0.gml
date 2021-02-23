@@ -1,5 +1,4 @@
 globalvar ga_attack;
-globalvar ga_item;
 //Create Attack Array
 
 ga_attack[0,0] = "SLAM";
@@ -15,6 +14,7 @@ ga_attack[1, 3] = 5;
 ga_attack[2, 0] = "SPIKES";
 ga_attack[2, 1] = 1;
 ga_attack[2, 2] = 30;
+<<<<<<< HEAD
 ga_attack[2, 3] = 5;
 
 ga_item[0,0] = "NITROUS";
@@ -31,3 +31,6 @@ ga_item[2, 0] = "ROBO MECHANIC";
 ga_item[2, 1] = 1;
 ga_item[2, 2] = 30;
 ga_item[2, 3] = 5;
+=======
+ga_attack[2, 3] = 5;
+>>>>>>> parent of 2dae1a8 (Items added)

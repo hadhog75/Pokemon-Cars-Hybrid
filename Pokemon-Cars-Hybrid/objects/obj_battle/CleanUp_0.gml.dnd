@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="0a5dd07b-dfdc-4cdd-b15b-eb38736bfb6c" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[413, 138]" /><Node hash="0147336E" left="216" top="136" width="760" height="465" /></Layout></Layouts>
+=======
+<Layouts><Layout layout_name="DnDWorkspace" layout_guid="a95b7a2d-2683-4cdc-a8ba-7ba6cff74e82" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[136, -143.51]" /><Node hash="0147336E" left="216" top="136" width="760" height="465" /></Layout></Layouts>
+>>>>>>> parent of 2dae1a8 (Items added)
