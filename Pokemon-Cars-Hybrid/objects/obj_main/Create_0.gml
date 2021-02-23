@@ -17,7 +17,6 @@ ga_attack[2, 1] = 1;
 ga_attack[2, 2] = 30;
 ga_attack[2, 3] = 5;
 
-//Create Item Array
 ga_item[0,0] = "NITROUS";
 ga_item[0,1] = 5; //Min damage
 ga_item[0,2] = 20; //Max damage
@@ -29,6 +28,6 @@ ga_item[1, 2] = 8;
 ga_item[1, 3] = 5;
 
 ga_item[2, 0] = "ROBO MECHANIC";
-ga_item[2, 1] = 1;//Min heal
-ga_item[2, 2] = 30;//Max Heal
+ga_item[2, 1] = 1;
+ga_item[2, 2] = 30;
 ga_item[2, 3] = 5;
