@@ -16,6 +16,7 @@
     {"id":{"name":"sprSTI","path":"sprites/sprSTI/sprSTI.yy",},"order":1,},
     {"id":{"name":"obj_thomastest","path":"objects/obj_thomastest/obj_thomastest.yy",},"order":7,},
     {"id":{"name":"spr_arrow_sprite","path":"sprites/spr_arrow_sprite/spr_arrow_sprite.yy",},"order":0,},
+    {"id":{"name":"spr_battle_background","path":"sprites/spr_battle_background/spr_battle_background.yy",},"order":5,},
     {"id":{"name":"InstructionsMenu","path":"rooms/InstructionsMenu/InstructionsMenu.yy",},"order":4,},
     {"id":{"name":"objSTI","path":"objects/objSTI/objSTI.yy",},"order":1,},
     {"id":{"name":"obj_battle","path":"objects/obj_battle/obj_battle.yy",},"order":0,},
